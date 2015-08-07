@@ -1,6 +1,6 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "username.github.io" # the base hostname & protocol for your site.
-title: "username-blog"
+url: "roomberry.bb-zone.com" # the base hostname & protocol for your site.
+title: "Roomberry"
 
 
 paginate: 3 #articles per page
@@ -8,13 +8,13 @@ paginate_path: /blog/page:num #makes pagination working
 
 
 #contacts
-git: "https://github.com/railsr"  #Add your github url here.
-stackoverflow: "http://stackoverflow.com/users/1231365/railsr" #Add your stackoverflow url here.
-twitter: "https://twitter.com/railsr7"  #Add your twitter url here.
+git: "https://github.com/bodoba/roomberry"  #Add your github url here.
+# stackoverflow: "http://stackoverflow.com/users/1231365/railsr" #Add your stackoverflow url here.
+# twitter: "https://twitter.com/railsr7"  #Add your twitter url here.
 
 #disqus comment
-disqus:
-    shortname: "test" #replace with your disqus comment short name
+#disqus:
+#    shortname: "bb" #replace with your disqus comment short name
 
 #google analytics
 google:
