@@ -13,8 +13,8 @@ stackoverflow: "" #Add your stackoverflow url here.
 twitter: ""       #Add your twitter url here.
 
 #disqus comment
-#disqus:
-#    shortname: "bb" #replace with your disqus comment short name
+disqus:
+    shortname: "bodoba" #replace with your disqus comment short name
 
 #google analytics
 google:
