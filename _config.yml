@@ -17,8 +17,8 @@ disqus:
     shortname: "roomberry" #replace with your disqus comment short name
 
 #google analytics
-#google:
-#    tracking-id: "" #paste your tracking id here
+google:
+    tracking-id: "UA-66176156-1" #paste your tracking id here
 gems:
   - jekyll-sitemap
 
